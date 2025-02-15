@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/message/:msg",
+      "destination": "/index.html"
+    }
+  ]
+}
